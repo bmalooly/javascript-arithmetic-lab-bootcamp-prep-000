@@ -10,4 +10,4 @@ function inc(n) {return n += 1;}
 
 function dec(n) {return n -= 1;}
 
-function makeInt
+function makeInt(n) {return 
